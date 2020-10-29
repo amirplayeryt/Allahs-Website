@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#osama {
+    color: brown;
+    display: inline;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+#logo-name {
+    color: brown;
+    display: inline;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#Link a {
+    color: red;
+    padding: 30px;
+    padding-top: 60px;
+}
+
+#Link a:hover {
+    color: blue;
+}
+
+#main {
+    max-width: 800px;
+    margin: auto;
+}
+
+#hs {
+    color: black;
+    background-color: crimson;
+    display: inline;
+    font-size: x-large;
+}
+
+#dark {
+    margin: 400px;
+}
